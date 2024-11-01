@@ -15,9 +15,25 @@ slorber:
   image_url: https://github.com/slorber.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: "/all-sebastien-lorber-articles"
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+andreast12:
+  name: Andreas Timothy
+  title: OS 242 Student
+  url: https://github.com/andreast12
+  image_url: https://github.com/andreast12.png
+  socials:
+    github: andreast12
+
+Qenthm:
+  name: Rifqisyandi Khairurrizal
+  title: OS 242 Student
+  url: https://github.com/Qenthm
+  image_url: https://github.com/Qenthm.png
+  socials:
+    github: Qenthm
